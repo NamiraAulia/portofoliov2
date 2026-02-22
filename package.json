@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://namiraaulia.github.io/portofoliov2/",
+  "homepage": "https://NamiraAulia.github.io/portofoliov2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
